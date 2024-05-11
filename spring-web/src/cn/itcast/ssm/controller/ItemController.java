@@ -34,6 +34,8 @@ public class ItemController {
 		modelAndView.setViewName("WEB-INF/jsp/itemList.jsp");
 
 		return modelAndView;
+
+		//master first
 	}
 
 }
